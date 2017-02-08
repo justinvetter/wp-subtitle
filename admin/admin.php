@@ -160,6 +160,9 @@ class WPSubtitle_Admin {
 	public static function _add_admin_styles() {
 		?>
 		<style>
+      #subtitlediv, .inline-edit-col-left-wps-subtitle{
+        display: none;
+      }
 		#subtitlediv.top {
 			margin-top: 5px;
 			margin-bottom: 15px;
