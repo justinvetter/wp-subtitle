@@ -3,7 +3,7 @@
 /*
 Plugin Name: WP Subtitle DG Edit
 Description: MODIFIED VERSION - Adds a subtitle field to pages and posts. Possible to add support for custom post types.
-Version: 2.8.4
+Version: 2.8.5
 Author: Justin Vetter, Ben Huson, Husani Oakley
 Author URI: https://github.com/justinvetter/wp-subtitle-dgedit
 License: GPLv2
